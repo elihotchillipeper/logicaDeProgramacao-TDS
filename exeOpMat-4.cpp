@@ -7,7 +7,7 @@ int main(){
 
     int subtracao = a - b;
 
-    printf("A subtrção dos números é: %d - %d = %d\n", a, b, subtracao);
+    printf("A subtração dos números é: %d - %d = %d\n", a, b, subtracao);
 
 
     return 0;
